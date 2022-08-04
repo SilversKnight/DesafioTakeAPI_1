@@ -10,4 +10,6 @@ plataforma GitHub, tratar as informações com filtros para exibir o nome do rep
 linguagem de programação utilizada. Por fim, a API deve providenciar tais dados para consumo em chatbots, especificamente o chatbot criado
 no âmbito do Desafio Take Blip.
 
-                             
+Link para repositório: https://github.com/SilversKnight/DesafioTakeAPI_1.git
+Link do GitHub do autor: https://github.com/SilversKnight                             
+E-mail do autor: ismaelarm1@gmail.com
