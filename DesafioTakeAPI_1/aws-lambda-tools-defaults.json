@@ -6,11 +6,11 @@
     "All the command line options for the Lambda command can be specified in this file."
   ],
   "profile": "ismael",
-  "region": "sa-east-1",
+  "region": "us-east-2",
   "configuration": "Release",
   "framework": "netcoreapp3.1",
   "function-runtime": "dotnetcore3.1",
   "function-memory-size": 256,
   "function-timeout": 30,
-  "function-handler": "DesafioTakeAPI_1::DesafioTakeAPI_1.Function::FunctionHandler"
+  "function-handler": "DesafioTakeAPI_1::DesafioTakeAPI_1.Application::getRepositoryData"
 }
